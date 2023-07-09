@@ -78,7 +78,7 @@ export default function Sidebar() {
         isShow ? "left-0" : "-left-[250px]"
       }`}
     >
-      <div className="flex-col shadow-lg gap-y-2 bg-Black min-h-screen w-[250px] px-4 pt-2">
+      <div className="flex-col shadow-lg gap-y-2 bg-Black min-h-screen w-[250px] px-4 pt-2 relative">
         <MenuAndLogo />
         <div className="flex flex-col gap-y-2 px-1 py-4">
           {routes.map((route) => {
@@ -107,6 +107,16 @@ export default function Sidebar() {
               <p className="w-full truncate text-sm">Youtube Kids</p>
             </a>
           </div>
+        </div>
+        <div className="text-White px-4 py-2 text-sm  rounded-lg absolute bottom-6">
+          Build with love by{" "}
+          <a
+            href="https://github.com/yelinko20"
+            target="_blank"
+            className="text-SkyBlue font-semibold"
+          >
+            Ye Lin Ko
+          </a>
         </div>
       </div>
     </div>

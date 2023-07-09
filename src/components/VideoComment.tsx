@@ -22,7 +22,7 @@ export default function VideoComment({ snippet }: commentThreadsProps) {
       const linkElement = (
         <a
           key={currentIndex}
-          className="text-blue-400"
+          className="text-SkyBlue"
           href={linkUrl}
           target="_blank"
           rel="noopener noreferrer"
