@@ -5,11 +5,11 @@
    YouTube Clone 
 </h1>
 <p align="center">
-  <a href="https://youtube-by-ye.netlify.app/" target="_blank">  YouTube Clone </a> built with <a href="https://reactjs.org/" target="_blank"> React </a> and <a href="https://youtube-by-ye.netlify.app/" target="_blank"> Typescript </a> 
+  <a href="https://youtube-by-yelinko.netlify.app/" target="_blank">  YouTube Clone </a> built with <a href="https://reactjs.org/" target="_blank"> React </a> and <a href="https://youtube-by-yelinko.netlify.app/" target="_blank"> Typescript </a> 
 </p>
 <br />
 
-<a href="https://ytbe.netlify.app/" target="_blank"> Live Preview </a>
+<a href="https://youtube-by-yelinko.netlify.app/" target="_blank"> Live Preview </a>
 
 <br />
 <br />
