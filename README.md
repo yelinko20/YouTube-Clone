@@ -13,7 +13,7 @@
 
 <br />
 <br />
- <a href="https://ytbe.netlify.app/" target="_blank">
+ <a href="https://youtube-by-yelinko.netlify.app/" target="_blank">
     <img src="./public/youtube-clone.png" width='100%' alt="Overview" />
   </a>
   
